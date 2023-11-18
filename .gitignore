@@ -7,6 +7,7 @@ __pycache__/
 data/
 *.xlsx
 *.pkl
+.DS_Store
 
 # C extensions
 *.so
